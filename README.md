@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy manuel 👋
 
-<!--
-**manue2011/manue2011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Lenguajes y Herramientas:
+<div align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,php,react,nodejs,express,docker,mysql,aws,git,linux,ps" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Estadísticas de GitHub:
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manue2011&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manue2011&theme=tokyonight&hide_border=true" height="180" alt="streak" />
+</div>
