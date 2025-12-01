@@ -3,7 +3,7 @@
 ### 👨‍💻 Lenguajes y Herramientas:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,php,react,nodejs,express,docker,mysql,postgres,aws,git,linux" />
+    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,php,react,nodejs,express,docker,mysql,postgres,mongodb,aws,git,linux" />
   </a>
 </div>
 
