@@ -12,6 +12,12 @@
 ### 🚀 Estadísticas de GitHub:
 
 
+### 🚀 Estadísticas de GitHub:
+
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manue2011&theme=tokyonight&hide_border=true" height="180" alt="Racha" />
+  <img src="https://streak-stats.demolab.com?user=manue2011&theme=tokyonight&hide_border=true" height="180" alt="Racha" />
+</div>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=manue2011&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="Estadísticas Generales" />
 </div>
