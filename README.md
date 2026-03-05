@@ -3,9 +3,14 @@
 ### 👨‍💻 Lenguajes y Herramientas:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,py,java,html,css,php,react,nodejs,express,docker,mysql,postgres,mongodb,aws,git,linux" />
+<img src="https://skillicons.dev/icons?i=js,py,java,html,symfony,css,php,react,nodejs,express,docker,mysql,postgres,mongodb,aws,git,linux" />
+    
+![Twig](https://img.shields.io/badge/Twig-bacf29?style=for-the-badge&logo=symfony&logoColor=black)
+![Doctrine](https://img.shields.io/badge/Doctrine-f46900?style=for-the-badge&logo=php&logoColor=white)
+
+    
   </a>
-</div>
+
 
 <br/>
 
